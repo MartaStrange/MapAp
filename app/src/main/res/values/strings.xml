@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Fench</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="feature_layer_points">https://services7.arcgis.com/4FKCncpmE8Eej31s/arcgis/rest/services/Gradski_Park_Skopje/FeatureServer/0</string>
+    <string name="feature_layer_area">https://services7.arcgis.com/4FKCncpmE8Eej31s/arcgis/rest/services/Gradski_Park_Skopje/FeatureServer/1</string>
+    <string name="routing_service">https://utility.arcgis.com/usrsvcs/servers/22e85b85a2de4a02aba14d0e8a972163/rest/services/World/Route/NAServer/Route_World</string>
+
+
+    <string name="success_message">Успешно едитирано.</string>
+    <string name="failure_message">Грешка на сервер: Неуспешно ајдејтирање на елемент на серверот.</string>
+    <string name="failure_edit_results">Серверот не врати едитирани резултати.</string>
+
+
+    <string name="progress_title">Барам патека</string>
+    <string name="progress_message">Ве молиме почекајте&#8230;</string>
+
+</resources>

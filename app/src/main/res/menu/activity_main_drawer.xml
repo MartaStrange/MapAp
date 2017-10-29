@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/free_bench_item"
+            android:icon="@drawable/location_on_map"
+            android:title="Преглед на слободни клупи"/>
+        <item
+            android:id="@+id/all_benches_item"
+            android:icon="@drawable/bench_icon"
+            android:title="Преглед на сите клупи"/>
+
+    </group>
+
+    <item android:title="Не си во парк?">
+        <menu>
+            <item
+                android:id="@+id/not_in_park_item"
+                android:icon="@drawable/directions"
+                android:title="Како до парк?"/>
+        </menu>
+    </item>
+
+
+</menu>
