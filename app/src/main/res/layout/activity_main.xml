@@ -33,12 +33,12 @@
     </android.support.design.widget.NavigationView>
 
 
-    <com.esri.arcgisruntime.mapping.view.MapView
+   <!-- <com.esri.arcgisruntime.mapping.view.MapView
         android:id="@+id/mapView"
         android:layout_width="fill_parent"
         android:layout_height="fill_parent"
         mapoptions.ZoomLevel="4"
-        />
+        />-->
 
 
 
